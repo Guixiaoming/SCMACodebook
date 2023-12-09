@@ -1,0 +1,1 @@
+This folder contains the proposed codebooks for VLC system with shot noise
